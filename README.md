@@ -1,0 +1,2 @@
+# Martyrs-Data-Management-System-Using-Binary-Trees-and-JavaFX
+This Java project manages martyr data using binary trees, stacks, queues, and linked lists. It organizes records by district, location, and date, enabling users to insert, update, delete, and search via a JavaFX GUI. It leverages OOP principles like encapsulation, inheritance, and polymorphism for efficient data handling and navigation.
